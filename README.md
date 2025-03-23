@@ -58,7 +58,7 @@
 
 ## Screenshots
 
-![SCREEN SHOT.png](screenshots%2FSCREEN%20SHOT.png)
+![app-screens.png](screenshots%2Fapp-screens.png)
 
 ## Tech Stack
 
