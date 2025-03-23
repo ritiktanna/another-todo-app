@@ -58,9 +58,7 @@
 
 ## Screenshots
 
-| Add Task | Mark as Complete | Delete Task |
-| -------- | ---------------- | ----------- |
-|          |                  |             |
+![SCREEN SHOT.png](screenshots%2FSCREEN%20SHOT.png)
 
 ## Tech Stack
 
